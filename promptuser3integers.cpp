@@ -18,14 +18,19 @@ int main()
   cin>>c;
   
   //begin comparison function
-  if(a<b&&a<c)
+  if(a>b&&a>c)
   {
-    cout<<"the maximum number you have entered is"<<c<<endl;
+    cout<<"the maximum number you have entered is"<<a<<endl;
   }
   else 
   if(b>a&&b>c)
   {
     cout<<"the maximum number you have entered is"<<b<<endl;
   }
+  else 
+  {
+    cout<<"the maximum number you have entered is"<<c<<endl;"
+  }
+  return 0;
 }
 

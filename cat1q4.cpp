@@ -3,6 +3,9 @@ using namespace std;
 //mainfunction begines here
 int main()
 {
-  //declare vari
+  //declare variables
+  double w,h;
+  double p,a;
+  //asign values to variables
   
 }

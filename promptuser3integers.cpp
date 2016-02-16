@@ -14,6 +14,13 @@ int main()
   cin>>a;
   cout<<"please enter the second number"<<endl;
   cin>>b;
+  cout<<"please enter the third number"<<endl;
+  cin>>c;
   
+  //begin comparison function
+  if(a<b&&a<c)
+  {
+    cout<<"the maximum number you have entered is"<<a<<endl;
+  }
 }
 

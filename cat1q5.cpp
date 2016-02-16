@@ -16,5 +16,6 @@ int main()
     {
       cout<<"This number is too small"<<endl;
     }
-  
+  else 
+  cout<<"This number is big enough"<<endl;
 }

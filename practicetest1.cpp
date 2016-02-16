@@ -19,6 +19,8 @@ int main()
   p=x*y*z;
   //output the results of computation
   cout<<"the surface area of the triangle is: "<<s<<endl;
+  cout<<"the area of the triangle is: "<<a<<endl;
+  cout<<"the perimeter of the triangle is: "<<p<<endl;
   
   
   //terminate program

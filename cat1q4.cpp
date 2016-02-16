@@ -19,6 +19,8 @@ int main()
   area=w*h;
   per=2(w+h);
   //execute output to user
+  cout<<"the area is :"<<area<<"The perimeter is :"<<per;
+  
   
  /* cout<<"The area of the rectangle is "<<endl;
   cout<<a;

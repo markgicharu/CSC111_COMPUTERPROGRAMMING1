@@ -17,6 +17,9 @@ int main()
   s=x+y+z;
   a=s/3;
   p=x*y*z;
+  //output the results of computation
+  cout<<"the surface area of the triangle is: "<<s<<endl;
+  
   
   //terminate program
   return 0;

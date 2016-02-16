@@ -18,4 +18,7 @@ int main()
     }
   else 
   cout<<"This number is big enough"<<endl;
+  
+  //end program
+  return 0;
 }

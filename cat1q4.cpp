@@ -17,5 +17,10 @@ int main()
   cin>>h;
   cout<<"The area of the rectangle is "<<endl;
   cout<<a;
+  cout<<"The perimeter of the rectangle is" <<endl;
+  cout<<p;
+  
+  //terminate program
+  return 0;
   
 }

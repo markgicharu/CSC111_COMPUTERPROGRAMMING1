@@ -12,7 +12,7 @@ int main()
   cin>>a;
   
   //runtime condition
-  if()
+  if(10<a)
     {
       cout<<"This number is too small"<<endl;
     }

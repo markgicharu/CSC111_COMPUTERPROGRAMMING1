@@ -1,5 +1,5 @@
 //preprocessor directive
-include <iostream>
+# include <iostream>
 using namespace std;
 
 //mainfunction begins here
@@ -29,8 +29,7 @@ int main()
   }
   else 
   {
-    cout<<"the maximum number you have entered is"<<c<<endl;"
+    cout<<"the maximum number you have entered is"<<c<<endl;
   }
   return 0;
 }
-

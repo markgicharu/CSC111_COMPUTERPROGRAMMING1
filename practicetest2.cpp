@@ -24,4 +24,21 @@ int main()
 	{
       cout<<"your Average Grade is A"<<endl;
 	}
+	else 
+		if(a>=60&&a<=79)
+	{
+      cout<<"your Average Grade is B"<<endl;
+	}
+	else 
+		if(a>=50&&a<=69)
+	{
+      cout<<"your Average Grade is C"<<endl;
+	}
+	else 
+		if(a>=0&&a<=50)
+	{
+      cout<<"your Average Grade is F"<<endl;
+	}
+
+		//terminate entire program
 }

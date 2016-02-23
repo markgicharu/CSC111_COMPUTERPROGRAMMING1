@@ -5,7 +5,7 @@ using namespace std;
 int main ()
 { 
 	//declare variables
-	int code;
+	int code, quantity, totalcost, price;
 	
 	//display the menu
 	cout<<"\t\t MENU"<<endl;
@@ -18,6 +18,8 @@ int main ()
 	//prompt user for input
 	cout<<"Kindly enter a menu code"<<endl;
 	cin>>code;
+	cout<<"Enter the quantity"<<endl;
+	cin>>quantity;
 	
 	//create switch code
 	switch(code)

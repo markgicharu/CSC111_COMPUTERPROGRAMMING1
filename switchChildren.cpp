@@ -8,6 +8,15 @@ int main()
   int age;
   char gender;
   
+  //display the menu
+  //display the menu
+	//cout<<"\t\t MENU"<<endl;
+	cout<<"age \t  Gender \t Activity \n";
+	cout<<"3 \t \t female \t computer games \n";
+	cout<<"4 \t \t male \t  computer games \n";
+	cout<<"5 \t \t Chips \t  150 \n";
+	cout<<"4 \t \t Chicken \t 100 \n";
+  
   //prompt user input
   cout<<"Please enter a valid age between 0 and 8 years old"<<endl;
   cin>>age;

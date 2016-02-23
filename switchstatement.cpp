@@ -37,5 +37,11 @@ int main ()
 			case 4:
 			cout<<"You have selected Chicken costing Kshs. 100";
 			break;
+			
+			default:
+			cout<<"You code is neither 1, 2, 3 or 4"<<endl;
+			break;
+		}
+		return 0;
 
 }

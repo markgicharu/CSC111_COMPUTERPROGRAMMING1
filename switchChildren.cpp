@@ -6,10 +6,12 @@ int main()
 {
   //declare variables
   int age;
-  char m;
-  char f;
+  char gender;
   
   //prompt user input
   cout<<"Please enter a valid age between 0 and 8 years old"<<endl;
+  cin>>age;
+  cout<<"Please enter the gender/sex of the child"<<endl;
+  cin>>gender;
   
 }

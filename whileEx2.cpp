@@ -11,8 +11,8 @@ int main()
   while(counter<=10)
   {
     cout<<"Hello World!"<<endl;
+    counter ++;
   }
-  counter ++;
   //terminate the program
   return 0;
   

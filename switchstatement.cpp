@@ -42,6 +42,7 @@ int main ()
 			cout<<"You code is neither 1, 2, 3 or 4"<<endl;
 			break;
 		}
+		//terminate program
 		return 0;
 
 }

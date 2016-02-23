@@ -9,5 +9,7 @@ int main()
   char m;
   char f;
   
+  //prompt user input
+  cout<<"Please enter a valid age between 0 and 8 years old"<<endl;
   
 }

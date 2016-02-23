@@ -27,20 +27,28 @@ int main ()
 			case 1:
 			cout<<"You have selected Hotdog"<<endl;
 			price = 200;
-			totalconst=price*quantity;
+			totalcost=price*quantity;
 			cout<<"the total cost = "<<totalcost<<endl;
 			break;
 			
 			case 2:
-			cout<<"You have selected pizza costing Kshs. 700";
-			break;
+			cout<<"You have selected pizza"<<endl; 
+			price = 700;
+			totalcost=price*quantity;
+			cout<<"the total cost = "<<totalcost<<endl;
 			
 			case 3:
-			cout<<"You have selected Chips costing Kshs. 150";
+			cout<<"You have selected Chips"<<endl; 
+			price = 150;
+			totalcost=price*quantity;
+			cout<<"the total cost = "<<totalcost<<endl;
 			break;
 			
 			case 4:
-			cout<<"You have selected Chicken costing Kshs. 100";
+			cout<<"You have selected Chicken"<<endl; 
+			price = 100;
+			totalcost=price*quantity;//or you can input totalcost=100*quatity;
+			cout<<"the total cost = "<<totalcost<<endl;
 			break;
 			
 			default:

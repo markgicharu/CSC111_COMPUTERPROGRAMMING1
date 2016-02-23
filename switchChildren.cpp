@@ -30,6 +30,26 @@ int main()
     cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
     break;
     
+    case 4:
+    cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
+    break;
+    
+    case 5:
+    cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
+    break;
+    
+    case 6:
+    cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
+    break;
+    
+    case 7:
+    cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
+    break;
+    
+    case 8:
+    cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
+    break;
+    
     
   }
 }

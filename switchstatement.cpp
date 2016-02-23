@@ -9,5 +9,6 @@ int main ()
 	
 	//display the menu
 	cout<<"\t\t MENU"<<endl;
+	cout<<"code \t Item \t Price\n";
 
 }

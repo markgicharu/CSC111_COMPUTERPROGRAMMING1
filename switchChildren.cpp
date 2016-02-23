@@ -26,9 +26,10 @@ int main()
   //generate switch statement
   switch(age)
   {
-    case age:
+    case 3:
     cout<<"The age of the child is "<<age<<"the sex of the child is "<<gender<<endl;
     break;
+    
     
   }
 }

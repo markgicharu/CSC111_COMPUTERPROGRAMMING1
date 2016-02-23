@@ -12,11 +12,13 @@ int main()
   
   //execute do while loop
   
-  
-    do {cout<<"Hello World!"<<endl;}
+    do {
+		cout<<"Hello World!"<<endl;
+		counter ++;
+	}
+	
     while(counter<=10);
-    counter ++;
-  
+
   //terminate the program
   return 0;
   

@@ -1,3 +1,6 @@
+//This program executes the while loop for the hello world
+
+//preprocessor directive
 #include <iostream>
 using namespace std;
 

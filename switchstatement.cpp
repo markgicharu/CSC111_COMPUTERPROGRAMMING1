@@ -14,5 +14,10 @@ int main ()
 	cout<<"code \t Pizza \t 700 \n";
 	cout<<"code \t Chips \t 150 \n";
 	cout<<"code \t Chicken \t 100 \n";
+	
+	//prompt user for input
+	cout<<"Kindly enter a menu code"<<endl;
+	cin>>code;
+	
 
 }

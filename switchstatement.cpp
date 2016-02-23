@@ -19,5 +19,23 @@ int main ()
 	cout<<"Kindly enter a menu code"<<endl;
 	cin>>code;
 	
+	//create switch code
+	switch()
+		{
+			case 1:
+			cout<<"You have selected Hotdog costing Kshs. 200";
+			break;
+			
+			case 2:
+			cout<<"You have selected Hotdog costing Kshs. 200";
+			break;
+			
+			case 3:
+			cout<<"You have selected Hotdog costing Kshs. 200";
+			break;
+			
+			case 4:
+			cout<<"You have selected Hotdog costing Kshs. 200";
+			break;
 
 }

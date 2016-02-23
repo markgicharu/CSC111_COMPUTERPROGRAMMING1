@@ -25,7 +25,10 @@ int main ()
 	switch(code)
 		{
 			case 1:
-			cout<<"You have selected Hotdog costing Kshs. 200";
+			cout<<"You have selected Hotdog"<<endl;
+			price = 200;
+			totalconst=price*quantity;
+			cout<<"the total cost = "<<totalcost<<endl;
 			break;
 			
 			case 2:

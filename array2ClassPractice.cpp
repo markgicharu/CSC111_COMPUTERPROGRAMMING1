@@ -1,3 +1,4 @@
+//preprocessor directive
 #include <iostream>
 using namespace std;
 
@@ -6,6 +7,7 @@ int main ()
   {
     //declare array variables
     int arr[10];
+	//request user input
     cout<< "Please enter 10 integers: "<<endl;
     
     //for loop begins here for storing integers
@@ -15,7 +17,7 @@ int main ()
       cin>> arr[i];
      
     }
-    //Accessing the 10 integers
+    //Accessing the 10 integers and displaying the input values
     cout<<"Values in array are now:\n ";
     for (int i=0; i< 10; i++ )
     {

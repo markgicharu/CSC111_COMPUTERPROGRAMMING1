@@ -21,5 +21,14 @@ int main()
     //print the address stored by myPointer
     cout<<"The address is "<<myPointer;
     
+    //using dereference pointer as a value
+    *myPointer = 600; //reassinging value pointed to bymyPointer
+    
+    cout<<"The value of y = "<<y;
+    cout<<"\n or"<<*myPointer<<endl;
+    
+    //display the address of variable x and y
+    cout<<"the address of x is "<<&x;
+    cout<<"\n address of y is "<<myPointer<<endl;
     
   };

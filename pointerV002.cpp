@@ -9,7 +9,7 @@ int main()
     
     //declaring pi=ointers
     
-    int myPointer;
+    int *myPointer;
     
     //initializing  a pointer
     myPointer = &y; // pointer points to variable y
